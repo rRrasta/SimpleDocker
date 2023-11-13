@@ -223,4 +223,4 @@ Why not try experimenting with deploying a project consisting of several docker 
 ##### Check that the browser returns the page you wrote on *localhost:80* as before
 
 
-💡 [Tap here](https://forms.yandex.ru/cloud/6418195450569020f1f159c4/) **to leave your feedback on the project**. Pedago Team really tries to make your educational experience better.
+💡 [Tap here](https://forms.yandex.ru/cloud/6418195450569020f1f159c4/) **to leave your feedback on the project**. Product Team really tries to make your educational experience better.
