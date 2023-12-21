@@ -24,15 +24,15 @@ The russian version of the task can be found in the repository.
 
 ![simple_docker](misc/images/simple_docker.png)
 
-Planet Earth, Atlantic Ocean, Her Majesty's Ship "Hood", heading to London, UK, nowadays.
+Planet Earth, somewhere in the middle of the sea, nowadays.
 
-You never liked moving. A lot of fuss, little action. But you managed to find a great job to delve into DevOps world in Foggy Albion.
+You never liked moving. A lot of fuss, little action. But you managed to find a great job to delve into DevOps world in other city.
 And you're not one to let minor difficulties ruin your plans.
 
 From your cabin window you hear the sound of the waves, the ship is peacefully rocking on them and you remember your favorite novel about the sea - "Moby Dick".
 Although the flow of the plot is far from straightforward, with many lyrical digressions and philosophical musings, you, like everyone else, associate this book primarily with Moby Dick himself - the white whale.
 
-"Hmm... White whale..." - here you remember that during the long journey you were going to work on docker.
+"Hmm... White whale..." Here you remember that during the long journey you were going to work on docker.
 
 
 ## Chapter II
